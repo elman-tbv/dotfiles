@@ -10,8 +10,8 @@ config.font         =
 
 
 config.color_scheme                 = 'Gruvbox Dark (Gogh)'
-config.window_background_opacity    = 0.63
+-- config.window_background_opacity    = 0.63
 config.macos_window_background_blur = 0
-config.window_decorations           = "RESIZE"
+-- config.window_decorations           = "RESIZE"
 
 return config
